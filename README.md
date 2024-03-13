@@ -8,6 +8,8 @@ It allows you to evaluate different frontier and OSS models on structured extrac
 
 The public dataset and evaluations run against it are available [in LangSmith here](https://smith.langchain.com/public/36bdfe7d-3cd1-4b36-b957-d12d95810a2b/d).
 
+TODO: refactoring
+
 It includes:
 
 1. A dataset of 42 real emails I pulled and deduped from my spam folder, with semantic HTML tags removed, as well as a script for initial extraction and formatting of other emails from an arbitrary `.mbox` file like the one exported by Gmail.
