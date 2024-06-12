@@ -1249,7 +1249,7 @@ files = [
 ]
 
 [package.dependencies]
-numpy = ">=1.16.6,<2"
+numpy = ">=1.16.5,<2"
 
 [[package]]
 name = "pydantic"
